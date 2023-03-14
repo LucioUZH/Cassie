@@ -1,0 +1,38 @@
+"","pop","lat","lon","region","country","habitat","obstime"
+"1","Azagny",5.234987124,-4.835175928,"W","Côte d'Ivoire","forest",4
+"2","Bafing",12.98639809,-10.43459141,"W","Mali","savanna",20
+"3","Bakoun-Sobory",11.68425259,-11.20404681,"W","Guinea","savanna",29
+"4","Bateke",-2.089069386,14.01392055,"C","Gabon","savanna",23
+"5","Bia",6.362071169,-3.017088958,"W","Ghana","forest",6
+"6","Bili-Uele",4.186495919,24.81145212,"E","DRC","forest",7
+"7","Boe",11.86054725,-14.07014562,"W","Guinea-Bissau","savanna",15
+"8","Budongo",1.736033555,31.531515,"E","Uganda","forest",406
+"9","Bwindi",-1.04902414,29.76635121,"E","Uganda","forest",42
+"10","Comoe",8.841651,-3.70789,"W","Côte d'Ivoire","savanna",52
+"11","Conkouati",-3.947261686,11.19912905,"C","Congo","forest",24
+"12","Dindefelo",12.36026396,-12.39585383,"W","Senegal","savanna",12
+"13","Djouroutou",5.411101561,-7.205258661,"W","Côte d'Ivoire","forest",16
+"14","EastNimba",7.427879672,-8.579053627,"W","Liberia","forest",16
+"15","Gashaka",7.325203143,11.57910159,"NC","Nigeria","forest",217
+"16","Gishwati",-1.819210288,29.36945725,"E","Rwanda","forest",100
+"17","Goualougo",2.177149498,16.607265,"C","Congo","forest",180
+"18","Grebo",5.486405577,-7.518485945,"W","Liberia","forest",13
+"19","Issa-Ugalla",-5.493410043,30.56464,"E","Tanzania","savanna",208
+"20","Kabogo",-5.42217031,29.23094887,"E","DRC","forest",3
+"21","Kayan",13.19106654,-12.23899969,"W","Senegal","savanna",12
+"22","Korup",5.123873041,8.8687042,"NC","Cameroon","forest",16
+"23","LaBelgique",3.384251296,13.09056823,"C","Cameroon","forest",51
+"24","Loango",-2.07821994,9.479637049,"C","Gabon","forest",156
+"25","Loma",9.169220854,-11.10740494,"W","Sierra Leone","forest",10
+"26","Lope",-0.205196896,11.600521,"C","Gabon","forest",225
+"27","Mbe",6.245041734,9.07952816,"NC","Nigeria","forest",20
+"28","MtCameroon",4.350669209,9.143265343,"NC","Cameroon","forest",30
+"29","MtCristal",0.330121336,10.30466742,"C","Gabon","forest",12
+"30","MtSangbe",8.008652438,-7.303264692,"W","Côte d'Ivoire","savanna",17
+"31","Ngogo",0.485982461,30.45071609,"E","Uganda","forest",276
+"32","Nyungwe",-2.459701956,29.22352175,"E","Rwanda","forest",12
+"33","Rubi-Tele",2.416899633,25.0770414,"E","DRC","forest",19
+"34","Sangaredi",11.05744561,-14.01413679,"W","Guinea","savanna",17
+"35","Sapo",5.313575851,-8.780804882,"W","Liberia","forest",20
+"36","Sobeya",11.05888104,-11.43255011,"W","Guinea","savanna",12
+"37","Tai",5.8667,-7.3333,"W","Côte d'Ivoire","forest",998

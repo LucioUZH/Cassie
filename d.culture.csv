@@ -1,0 +1,681 @@
+site;behaviour;category;complexity;presence;ref
+Bafing;accumulative_stone_throwing;communication;2;0;PanAfData
+Bafing;algae_fishing_with_tool;algae;1;0;
+Bafing;ant_dipping_with_tool;ant;1;0;
+Bafing;ant_eating_without_tools;ant;0;0;
+Bafing;ant_fishing_with_tool;ant;1;0;
+Bafing;cave_use;thermoregulation;0;0;
+Bafing;ground_nest;ground protection;0;0;
+Bafing;honey_aerial_with_tool;honey;1;0;
+Bafing;honey_aerial_with_toolset;honey;2;0;
+Bafing;honey_eating_without_tools;honey;0;0;
+Bafing;leaf_clipping;communication;1;0;
+Bafing;leaf_cushion;ground protection;0;0;
+Bafing;leaf_sponge;water;1;0;
+Bafing;marrow_pick;vertebrates;1;0;
+Bafing;nut_cracking;nut;2;0;
+Bafing;stone_throwing;communication;1;0;
+Bafing;termite_eating_without_tools;termite;0;0;
+Bafing;termite_fishing_with_tool;termite;1;1;
+Bafing;underground_perforation_with_toolset;perforate honey/termites;2;0;
+Bafing;water_dipping;water;1;0;
+Bakoun-Sobory;accumulative_stone_throwing;communication;2;0;K?hl et al. 2016 Chimpanzee Accumulative Stone Throwing Scientific Reports 6: 22219
+Bakoun-Sobory;algae_fishing_with_tool;algae;1;1;Boesch et al. 2016 Chimpanzees Routinely Fish for Algae with Tools During the Dry Season in Bakoun Guinea American Journal of Primatology 79: e22613
+Bakoun-Sobory;ant_dipping_with_tool;ant;1;1;
+Bakoun-Sobory;ant_eating_without_tools;ant;0;0;
+Bakoun-Sobory;ant_fishing_with_tool;ant;1;0;
+Bakoun-Sobory;cave_use;thermoregulation;0;0;
+Bakoun-Sobory;ground_nest;ground protection;0;0;
+Bakoun-Sobory;honey_aerial_with_tool;honey;1;0;
+Bakoun-Sobory;honey_aerial_with_toolset;honey;2;0;
+Bakoun-Sobory;honey_eating_without_tools;honey;0;1;
+Bakoun-Sobory;leaf_clipping;communication;1;0;
+Bakoun-Sobory;leaf_cushion;ground protection;0;0;
+Bakoun-Sobory;leaf_sponge;water;1;0;
+Bakoun-Sobory;marrow_pick;vertebrates;1;0;
+Bakoun-Sobory;nut_cracking;nut;2;0;
+Bakoun-Sobory;stone_throwing;communication;1;0;
+Bakoun-Sobory;termite_eating_without_tools;termite;0;0;
+Bakoun-Sobory;termite_fishing_with_tool;termite;1;1;
+Bakoun-Sobory;underground_perforation_with_toolset;perforate honey/termites;2;0;
+Bakoun-Sobory;water_dipping;water;1;0;
+Bateke;accumulative_stone_throwing;communication;2;0;
+Bateke;algae_fishing_with_tool;algae;1;0;
+Bateke;ant_dipping_with_tool;ant;1;0;
+Bateke;ant_eating_without_tools;ant;0;0;
+Bateke;ant_fishing_with_tool;ant;1;0;
+Bateke;cave_use;thermoregulation;0;0;
+Bateke;ground_nest;ground protection;0;0;
+Bateke;honey_aerial_with_tool;honey;1;1;
+Bateke;honey_aerial_with_toolset;honey;2;0;
+Bateke;honey_eating_without_tools;honey;0;0;
+Bateke;leaf_clipping;communication;1;0;
+Bateke;leaf_cushion;ground protection;0;0;
+Bateke;leaf_sponge;water;1;0;
+Bateke;marrow_pick;vertebrates;1;0;
+Bateke;nut_cracking;nut;2;0;
+Bateke;stone_throwing;communication;1;0;
+Bateke;termite_eating_without_tools;termite;0;0;
+Bateke;termite_fishing_with_tool;termite;1;1;
+Bateke;underground_perforation_with_toolset;perforate honey/termites;2;0;
+Bateke;water_dipping;water;1;0;
+Bili-Uele;accumulative_stone_throwing;communication;2;0;PanAf Data
+Bili-Uele;algae_fishing_with_tool;algae;1;0;Hicks pers. comm.
+Bili-Uele;ant_dipping_with_tool;ant;1;1;Hicks et al. 2019
+Bili-Uele;ant_eating_without_tools;ant;0;0;
+Bili-Uele;ant_fishing_with_tool;ant;1;1;
+Bili-Uele;cave_use;thermoregulation;0;0;
+Bili-Uele;ground_nest;ground protection;0;1;
+Bili-Uele;honey_aerial_with_tool;honey;1;1;
+Bili-Uele;honey_aerial_with_toolset;honey;2;0;
+Bili-Uele;honey_eating_without_tools;honey;0;0;
+Bili-Uele;leaf_clipping;communication;1;0;
+Bili-Uele;leaf_cushion;ground protection;0;1;
+Bili-Uele;leaf_sponge;water;1;0;
+Bili-Uele;marrow_pick;vertebrates;1;0;
+Bili-Uele;nut_cracking;nut;2;0;
+Bili-Uele;stone_throwing;communication;1;0;
+Bili-Uele;termite_eating_without_tools;termite;0;1;
+Bili-Uele;termite_fishing_with_tool;termite;1;0;
+Bili-Uele;underground_perforation_with_toolset;perforate honey/termites;2;1;
+Bili-Uele;water_dipping;water;1;0;
+Boe;accumulative_stone_throwing;communication;2;1;PanAf Data
+Boe;algae_fishing_with_tool;algae;1;0;
+Boe;ant_dipping_with_tool;ant;1;1;
+Boe;ant_eating_without_tools;ant;0;0;
+Boe;ant_fishing_with_tool;ant;1;0;
+Boe;cave_use;thermoregulation;0;0;
+Boe;ground_nest;ground protection;0;0;
+Boe;honey_aerial_with_tool;honey;1;1;
+Boe;honey_aerial_with_toolset;honey;2;0;
+Boe;honey_eating_without_tools;honey;0;0;
+Boe;leaf_clipping;communication;1;0;
+Boe;leaf_cushion;ground protection;0;0;
+Boe;leaf_sponge;water;1;0;
+Boe;marrow_pick;vertebrates;1;0;
+Boe;nut_cracking;nut;2;0;
+Boe;stone_throwing;communication;1;1;
+Boe;termite_eating_without_tools;termite;0;0;
+Boe;termite_fishing_with_tool;termite;1;0;
+Boe;underground_perforation_with_toolset;perforate honey/termites;2;0;
+Boe;water_dipping;water;1;0;
+Budongo;accumulative_stone_throwing;communication;2;0;Reynolds 2005 The Chimpanzees of the Budongo Forest: Ecology, Behaviour and Conservation Oxford University Press: Oxford, UK.
+Budongo;algae_fishing_with_tool;algae;1;0;Hobaiter et al. 2017 Variation in Hunting Behaviour in Neighbouring  Chimpanzee Communities in the Budongo Forest, Uganda
+Budongo;ant_dipping_with_tool;ant;1;1;Mugisha et al. 2016 First Observation of Dorylus Ant Feeding in Budongo Chimpanzees Supports Absence of Stick-tool Culture Primates 57: 389-394
+Budongo;ant_eating_without_tools;ant;0;0;
+Budongo;ant_fishing_with_tool;ant;1;0;Hobaiter et al. 2014 Social Network Analysis Shows Direct Evidence for Social Transmission of Tool Use in Wild Chimpanzees Plos Biology 12: e1001960 
+Budongo;cave_use;thermoregulation;0;0;Hobatier and Byrne 2014 The Meanings of Chimpanzee Gestures Current Biology 24: 1596-1600
+Budongo;ground_nest;ground protection;0;0;Newton-Fisher 1999 Termite Eating and Food Sharing by Male Chimpanzees in the Budongo Forest, Uganda African Journal of Ecology 37: 369-371
+Budongo;honey_aerial_with_tool;honey;1;0;Newton-Fisher 1999 The Diet of Chimpanzees in the Budongo Forest Reserve, Uganda African Journal of Ecology 37: 344-354
+Budongo;honey_aerial_with_toolset;honey;2;0;Langergraber et al. 2011 Genetic and 'Cultural' Similarity in Wild Chimpanzees Proceedings of the Royal Society B 278: 408-416
+Budongo;honey_eating_without_tools;honey;0;0;
+Budongo;leaf_clipping;communication;1;1;
+Budongo;leaf_cushion;ground protection;0;0;
+Budongo;leaf_sponge;water;1;1;
+Budongo;marrow_pick;vertebrates;1;0;
+Budongo;nut_cracking;nut;2;0;
+Budongo;stone_throwing;communication;1;0;
+Budongo;termite_eating_without_tools;termite;0;1;
+Budongo;termite_fishing_with_tool;termite;1;0;
+Budongo;underground_perforation_with_toolset;perforate honey/termites;2;0;
+Budongo;water_dipping;water;1;0;
+Bwindi;accumulative_stone_throwing;communication;2;0;Furuichi and Hashimoto 2004 Botanical and Topographical Factors Influencing Nesting-site Selection by Chimpanzees in Kalinzu Forest, Uganda International Journal of Primatology 25: 755-765
+Bwindi;algae_fishing_with_tool;algae;1;0;Stanford and Nkurunungi 2003 Behavioral Ecology of Sympatric Chimpanzees and Gorillas in Bwindi Impenetrable National Park, Uganda: Diet International Journal of Primatology 24: 901-918
+Bwindi;ant_dipping_with_tool;ant;1;0;
+Bwindi;ant_eating_without_tools;ant;0;0;
+Bwindi;ant_fishing_with_tool;ant;1;0;
+Bwindi;cave_use;thermoregulation;0;0;
+Bwindi;ground_nest;ground protection;0;1;
+Bwindi;honey_aerial_with_tool;honey;1;1;
+Bwindi;honey_aerial_with_toolset;honey;2;0;
+Bwindi;honey_eating_without_tools;honey;0;0;
+Bwindi;leaf_clipping;communication;1;0;
+Bwindi;leaf_cushion;ground protection;0;0;
+Bwindi;leaf_sponge;water;1;0;
+Bwindi;marrow_pick;vertebrates;1;0;
+Bwindi;nut_cracking;nut;2;0;
+Bwindi;stone_throwing;communication;1;0;
+Bwindi;termite_eating_without_tools;termite;0;0;
+Bwindi;termite_fishing_with_tool;termite;1;0;
+Bwindi;underground_perforation_with_toolset;perforate honey/termites;2;0;
+Bwindi;water_dipping;water;1;0;
+Comoe;accumulative_stone_throwing;communication;2;1;"\Lapuente et al. 2016 Fluid Dipping Technology of Chimpanzees in Comoe National Park, Ivory Coast American Journal of Primatology 79: e22628\"""""
+Comoe;algae_fishing_with_tool;algae;1;0;K?hl et al. 2016 Chimpanzee Accumulative Stone Throwing Scientific Reports 6: 22219
+Comoe;ant_dipping_with_tool;ant;1;1;
+Comoe;ant_eating_without_tools;ant;0;0;
+Comoe;ant_fishing_with_tool;ant;1;1;
+Comoe;cave_use;thermoregulation;0;1;
+Comoe;ground_nest;ground protection;0;0;
+Comoe;honey_aerial_with_tool;honey;1;1;
+Comoe;honey_aerial_with_toolset;honey;2;0;
+Comoe;honey_eating_without_tools;honey;0;0;
+Comoe;leaf_clipping;communication;1;0;
+Comoe;leaf_cushion;ground protection;0;0;
+Comoe;leaf_sponge;water;1;1;
+Comoe;marrow_pick;vertebrates;1;0;
+Comoe;nut_cracking;nut;2;0;
+Comoe;stone_throwing;communication;1;0;
+Comoe;termite_eating_without_tools;termite;0;0;
+Comoe;termite_fishing_with_tool;termite;1;1;
+Comoe;underground_perforation_with_toolset;perforate honey/termites;2;0;
+Comoe;water_dipping;water;1;1;
+Conkouati;accumulative_stone_throwing;communication;2;0;
+Conkouati;algae_fishing_with_tool;algae;1;0;
+Conkouati;ant_dipping_with_tool;ant;1;0;
+Conkouati;ant_eating_without_tools;ant;0;0;
+Conkouati;ant_fishing_with_tool;ant;1;0;
+Conkouati;cave_use;thermoregulation;0;0;
+Conkouati;ground_nest;ground protection;0;0;
+Conkouati;honey_aerial_with_tool;honey;1;1;
+Conkouati;honey_aerial_with_toolset;honey;2;1;
+Conkouati;honey_eating_without_tools;honey;0;0;
+Conkouati;leaf_clipping;communication;1;0;
+Conkouati;leaf_cushion;ground protection;0;0;
+Conkouati;leaf_sponge;water;1;0;
+Conkouati;marrow_pick;vertebrates;1;0;
+Conkouati;nut_cracking;nut;2;0;
+Conkouati;stone_throwing;communication;1;0;
+Conkouati;termite_eating_without_tools;termite;0;0;
+Conkouati;termite_fishing_with_tool;termite;1;0;
+Conkouati;underground_perforation_with_toolset;perforate honey/termites;2;0;
+Conkouati;water_dipping;water;1;0;
+Dindefelo;accumulative_stone_throwing;communication;2;0;PanAf Data
+Dindefelo;algae_fishing_with_tool;algae;1;1;
+Dindefelo;ant_dipping_with_tool;ant;1;1;
+Dindefelo;ant_eating_without_tools;ant;0;1;
+Dindefelo;ant_fishing_with_tool;ant;1;0;
+Dindefelo;cave_use;thermoregulation;0;1;
+Dindefelo;ground_nest;ground protection;0;0;
+Dindefelo;honey_aerial_with_tool;honey;1;0;
+Dindefelo;honey_aerial_with_toolset;honey;2;0;
+Dindefelo;honey_eating_without_tools;honey;0;0;
+Dindefelo;leaf_clipping;communication;1;0;
+Dindefelo;leaf_cushion;ground protection;0;0;
+Dindefelo;leaf_sponge;water;1;0;
+Dindefelo;marrow_pick;vertebrates;1;0;
+Dindefelo;nut_cracking;nut;2;0;
+Dindefelo;stone_throwing;communication;1;0;
+Dindefelo;termite_eating_without_tools;termite;0;0;
+Dindefelo;termite_fishing_with_tool;termite;1;1;Boesch et al 2020
+Dindefelo;underground_perforation_with_toolset;perforate honey/termites;2;0;
+Dindefelo;water_dipping;water;1;0;
+Djouroutou;accumulative_stone_throwing;communication;2;0;PanAf Data
+Djouroutou;algae_fishing_with_tool;algae;1;0;K?hl et al. 2016 Chimpanzee Accumulative Stone Throwing Scientific Reports 6: 22219
+Djouroutou;ant_dipping_with_tool;ant;1;0;
+Djouroutou;ant_eating_without_tools;ant;0;0;
+Djouroutou;ant_fishing_with_tool;ant;1;0;
+Djouroutou;cave_use;thermoregulation;0;0;
+Djouroutou;ground_nest;ground protection;0;0;
+Djouroutou;honey_aerial_with_tool;honey;1;0;
+Djouroutou;honey_aerial_with_toolset;honey;2;0;
+Djouroutou;honey_eating_without_tools;honey;0;0;
+Djouroutou;leaf_clipping;communication;1;0;
+Djouroutou;leaf_cushion;ground protection;0;0;
+Djouroutou;leaf_sponge;water;1;0;
+Djouroutou;marrow_pick;vertebrates;1;0;
+Djouroutou;nut_cracking;nut;2;1;
+Djouroutou;stone_throwing;communication;1;0;
+Djouroutou;termite_eating_without_tools;termite;0;0;
+Djouroutou;termite_fishing_with_tool;termite;1;0;
+Djouroutou;underground_perforation_with_toolset;perforate honey/termites;2;0;
+Djouroutou;water_dipping;water;1;0;
+EastNimba;accumulative_stone_throwing;communication;2;1;PanAf Data
+EastNimba;algae_fishing_with_tool;algae;1;0;Beatty 1951 A Note on the Behavior of the Chimpanzee Journal of Mammology 32: 118
+EastNimba;ant_dipping_with_tool;ant;1;0;
+EastNimba;ant_eating_without_tools;ant;0;0;
+EastNimba;ant_fishing_with_tool;ant;1;0;
+EastNimba;cave_use;thermoregulation;0;0;
+EastNimba;ground_nest;ground protection;0;1;
+EastNimba;honey_aerial_with_tool;honey;1;0;
+EastNimba;honey_aerial_with_toolset;honey;2;0;
+EastNimba;honey_eating_without_tools;honey;0;0;
+EastNimba;leaf_clipping;communication;1;1;
+EastNimba;leaf_cushion;ground protection;0;0;
+EastNimba;leaf_sponge;water;1;0;
+EastNimba;marrow_pick;vertebrates;1;0;
+EastNimba;nut_cracking;nut;2;1;
+EastNimba;stone_throwing;communication;1;0;
+EastNimba;termite_eating_without_tools;termite;0;0;
+EastNimba;termite_fishing_with_tool;termite;1;0;
+EastNimba;underground_perforation_with_toolset;perforate honey/termites;2;0;
+EastNimba;water_dipping;water;1;0;
+Gashaka;accumulative_stone_throwing;communication;2;0;PanAf Data
+Gashaka;algae_fishing_with_tool;algae;1;0;"\Sommer and Ross (Eds.) 2011 Primates of Gashaka: Socioecology and Conservation in Nigeria's Biodiversity Hotspot. Springer: New York, USA\"""""
+Gashaka;ant_dipping_with_tool;ant;1;1;Fowler et al. 2007 Leaf-swallowing in Nigerian Chimpanzees: Evidence for Assumed Self-medication Primates 48: 73-76
+Gashaka;ant_eating_without_tools;ant;0;0;Sommer et al. 2012 Till the Last Drop: Honey Gathering in Nigerian Chimpanzees Ecotropica 18:55-64
+Gashaka;ant_fishing_with_tool;ant;1;1;Pascual-Garrido et al. 2012 Obtaining Raw Material: Plants as Tool Sources for Nigerian Chimpanzees Folia Primatologica 83: 24-44
+Gashaka;cave_use;thermoregulation;0;0;
+Gashaka;ground_nest;ground protection;0;0;
+Gashaka;honey_aerial_with_tool;honey;1;1;Sommer et al. 2012 Till the Last Drop: Honey Gathering in Nigerian Chimpanzees Ecotropica 18:55-64
+Gashaka;honey_aerial_with_toolset;honey;2;0;
+Gashaka;honey_eating_without_tools;honey;0;0;
+Gashaka;leaf_clipping;communication;1;0;
+Gashaka;leaf_cushion;ground protection;0;0;
+Gashaka;leaf_sponge;water;1;0;
+Gashaka;marrow_pick;vertebrates;1;0;
+Gashaka;nut_cracking;nut;2;0;
+Gashaka;stone_throwing;communication;1;0;
+Gashaka;termite_eating_without_tools;termite;0;0;
+Gashaka;termite_fishing_with_tool;termite;1;0;
+Gashaka;underground_perforation_with_toolset;perforate honey/termites;2;1;
+Gashaka;water_dipping;water;1;0;
+Gishwati;accumulative_stone_throwing;communication;2;0;PanAf Data
+Gishwati;algae_fishing_with_tool;algae;1;0;
+Gishwati;ant_dipping_with_tool;ant;1;0;
+Gishwati;ant_eating_without_tools;ant;0;0;
+Gishwati;ant_fishing_with_tool;ant;1;0;
+Gishwati;cave_use;thermoregulation;0;0;
+Gishwati;ground_nest;ground protection;0;0;
+Gishwati;honey_aerial_with_tool;honey;1;0;
+Gishwati;honey_aerial_with_toolset;honey;2;0;
+Gishwati;honey_eating_without_tools;honey;0;0;
+Gishwati;leaf_clipping;communication;1;0;
+Gishwati;leaf_cushion;ground protection;0;0;
+Gishwati;leaf_sponge;water;1;0;
+Gishwati;marrow_pick;vertebrates;1;0;
+Gishwati;nut_cracking;nut;2;0;
+Gishwati;stone_throwing;communication;1;0;
+Gishwati;termite_eating_without_tools;termite;0;0;
+Gishwati;termite_fishing_with_tool;termite;1;0;
+Gishwati;underground_perforation_with_toolset;perforate honey/termites;2;0;
+Gishwati;water_dipping;water;1;0;
+Goualougo;accumulative_stone_throwing;communication;2;0;PanAf Data
+Goualougo;algae_fishing_with_tool;algae;1;0;"\Boesch 2012 Wild Cultures: A Comparison between Chimpanzee and Human Cultures. Cambridge University Press: Cambridge, UK.\"""""
+Goualougo;ant_dipping_with_tool;ant;1;1;"\Sanz and Morgan 2007 Chimpanzee Tool Technology in the Goualougo Triangle, Republic of Congo Journal of Human Evolution 52: 420-433\"""""
+Goualougo;ant_eating_without_tools;ant;0;0;Sanz et al. 2010 Chimpanzees Prey on Army Ants with Specialized Tool Set American Journal of Primatology 72: 17-24
+Goualougo;ant_fishing_with_tool;ant;1;0;Sanz and Morgan 2011 Elemental Variation in the Termite Fishing of Wild Chimpanzees (Pan troglodytes) Biology Letters 7: 634-637.
+Goualougo;cave_use;thermoregulation;0;0;
+Goualougo;ground_nest;ground protection;0;0;
+Goualougo;honey_aerial_with_tool;honey;1;1;
+Goualougo;honey_aerial_with_toolset;honey;2;1;
+Goualougo;honey_eating_without_tools;honey;0;1;
+Goualougo;leaf_clipping;communication;1;0;
+Goualougo;leaf_cushion;ground protection;0;1;
+Goualougo;leaf_sponge;water;1;1;
+Goualougo;marrow_pick;vertebrates;1;1;
+Goualougo;nut_cracking;nut;2;0;
+Goualougo;stone_throwing;communication;1;1;
+Goualougo;termite_eating_without_tools;termite;0;0;
+Goualougo;termite_fishing_with_tool;termite;1;1;
+Goualougo;underground_perforation_with_toolset;perforate honey/termites;2;1;
+Goualougo;water_dipping;water;1;1;
+Grebo;accumulative_stone_throwing;communication;2;0;PanAf Data
+Grebo;algae_fishing_with_tool;algae;1;0;
+Grebo;ant_dipping_with_tool;ant;1;0;
+Grebo;ant_eating_without_tools;ant;0;0;
+Grebo;ant_fishing_with_tool;ant;1;0;
+Grebo;cave_use;thermoregulation;0;0;
+Grebo;ground_nest;ground protection;0;0;
+Grebo;honey_aerial_with_tool;honey;1;0;
+Grebo;honey_aerial_with_toolset;honey;2;0;
+Grebo;honey_eating_without_tools;honey;0;0;
+Grebo;leaf_clipping;communication;1;0;
+Grebo;leaf_cushion;ground protection;0;0;
+Grebo;leaf_sponge;water;1;0;
+Grebo;marrow_pick;vertebrates;1;0;
+Grebo;nut_cracking;nut;2;0;
+Grebo;stone_throwing;communication;1;0;
+Grebo;termite_eating_without_tools;termite;0;0;
+Grebo;termite_fishing_with_tool;termite;1;0;
+Grebo;underground_perforation_with_toolset;perforate honey/termites;2;0;
+Grebo;water_dipping;water;1;0;
+Issa-Ugalla;accumulative_stone_throwing;communication;2;0;PanAf Data
+Issa-Ugalla;algae_fishing_with_tool;algae;1;0;"\Wondra et al. 2016 A New Report of Chimpanzee Ant-fishing from the Issa Valley, Tanzania African Primates 11: 1-18\"""""
+Issa-Ugalla;ant_dipping_with_tool;ant;1;0;Stewart 2011 Ecology and Ethology of Chimpanzee Nest Building PhD Thesis: University of Cambridge
+Issa-Ugalla;ant_eating_without_tools;ant;0;0;"\Amaya et al. 2016 Savanna Chimpanzees (Pan troglodytes schweinfurthii) Consume and Share Blue Duiker Meat in the Issa Valley, Ugalla, Western Tanzania Pan Africa News 22: 17-21\"""""
+Issa-Ugalla;ant_fishing_with_tool;ant;1;1;Hernandez-Aguilar et al. 2007 Savanna Chimpanzees Use Tools to Harvest the Underground Storage Organs of Plants PNAS 104: 19210-19213
+Issa-Ugalla;cave_use;thermoregulation;0;0;Stewart and Pruetz 2013 Do Chimpanzee Nests Serve an Anti?Predatory Function? American Journal of Primatology 75: 593-604 
+Issa-Ugalla;ground_nest;ground protection;0;0;"\Piel et al., 2015 Population Status of Chimpanzees in the Masito-Ugalla Ecosystem, Tanzania American Journal of Primatology 77: 1027-1035\"""""
+Issa-Ugalla;honey_aerial_with_tool;honey;1;0;"\Moore 2013 Genetic Investigation of an Unhabituated, Savanna-Woodland Chimpanzee (Pan troglodytes schweinfurthii) Population in Ugalla, Western Tanzania PhD Thesis: The University of Texas at San Antonio\"""""
+Issa-Ugalla;honey_aerial_with_toolset;honey;2;0;
+Issa-Ugalla;honey_eating_without_tools;honey;0;0;
+Issa-Ugalla;leaf_clipping;communication;1;0;
+Issa-Ugalla;leaf_cushion;ground protection;0;0;
+Issa-Ugalla;leaf_sponge;water;1;0;
+Issa-Ugalla;marrow_pick;vertebrates;1;0;
+Issa-Ugalla;nut_cracking;nut;2;0;
+Issa-Ugalla;stone_throwing;communication;1;0;
+Issa-Ugalla;termite_eating_without_tools;termite;0;0;
+Issa-Ugalla;termite_fishing_with_tool;termite;1;1;
+Issa-Ugalla;underground_perforation_with_toolset;perforate honey/termites;2;0;
+Issa-Ugalla;water_dipping;water;1;0;
+Kabogo;accumulative_stone_throwing;communication;2;0;PanAf Data
+Kabogo;algae_fishing_with_tool;algae;1;0;"\ Izawa and Itani 1966. Chimpanzees in Kasakati Basin, Tanganyika: I. Ecological Study in the Rainy Season 1963-1964 pp. 73-156 In: Kyoto University African Studies Vol. 1 (Ed.) K. Imanishi. Kyoto University: Kyoto, Japan\"""""
+Kabogo;ant_dipping_with_tool;ant;1;0;
+Kabogo;ant_eating_without_tools;ant;0;0;
+Kabogo;ant_fishing_with_tool;ant;1;0;
+Kabogo;cave_use;thermoregulation;0;0;
+Kabogo;ground_nest;ground protection;0;1;
+Kabogo;honey_aerial_with_tool;honey;1;0;
+Kabogo;honey_aerial_with_toolset;honey;2;0;
+Kabogo;honey_eating_without_tools;honey;0;0;
+Kabogo;leaf_clipping;communication;1;0;
+Kabogo;leaf_cushion;ground protection;0;0;
+Kabogo;leaf_sponge;water;1;0;
+Kabogo;marrow_pick;vertebrates;1;0;
+Kabogo;nut_cracking;nut;2;0;
+Kabogo;stone_throwing;communication;1;0;
+Kabogo;termite_eating_without_tools;termite;0;0;
+Kabogo;termite_fishing_with_tool;termite;1;0;
+Kabogo;underground_perforation_with_toolset;perforate honey/termites;2;0;
+Kabogo;water_dipping;water;1;0;
+Kayan;accumulative_stone_throwing;communication;2;0;K?hl et al. 2016 Chimpanzee Accumulative Stone Throwing Scientific Reports 6: 22219
+Kayan;algae_fishing_with_tool;algae;1;0;
+Kayan;ant_dipping_with_tool;ant;1;0;
+Kayan;ant_eating_without_tools;ant;0;0;
+Kayan;ant_fishing_with_tool;ant;1;0;
+Kayan;cave_use;thermoregulation;0;0;
+Kayan;ground_nest;ground protection;0;0;
+Kayan;honey_aerial_with_tool;honey;1;0;
+Kayan;honey_aerial_with_toolset;honey;2;0;
+Kayan;honey_eating_without_tools;honey;0;0;
+Kayan;leaf_clipping;communication;1;0;
+Kayan;leaf_cushion;ground protection;0;0;
+Kayan;leaf_sponge;water;1;0;
+Kayan;marrow_pick;vertebrates;1;0;
+Kayan;nut_cracking;nut;2;0;
+Kayan;stone_throwing;communication;1;0;
+Kayan;termite_eating_without_tools;termite;0;0;
+Kayan;termite_fishing_with_tool;termite;1;1;
+Kayan;underground_perforation_with_toolset;perforate honey/termites;2;0;
+Kayan;water_dipping;water;1;0;
+Korup;accumulative_stone_throwing;communication;2;0;PanAf Data
+Korup;algae_fishing_with_tool;algae;1;0;
+Korup;ant_dipping_with_tool;ant;1;0;
+Korup;ant_eating_without_tools;ant;0;0;
+Korup;ant_fishing_with_tool;ant;1;1;
+Korup;cave_use;thermoregulation;0;0;
+Korup;ground_nest;ground protection;0;0;
+Korup;honey_aerial_with_tool;honey;1;0;
+Korup;honey_aerial_with_toolset;honey;2;0;
+Korup;honey_eating_without_tools;honey;0;0;
+Korup;leaf_clipping;communication;1;0;
+Korup;leaf_cushion;ground protection;0;1;
+Korup;leaf_sponge;water;1;0;
+Korup;marrow_pick;vertebrates;1;0;
+Korup;nut_cracking;nut;2;0;
+Korup;stone_throwing;communication;1;0;
+Korup;termite_eating_without_tools;termite;0;0;
+Korup;termite_fishing_with_tool;termite;1;1;
+Korup;underground_perforation_with_toolset;perforate honey/termites;2;1;
+Korup;water_dipping;water;1;0;
+LaBelgique;accumulative_stone_throwing;communication;2;0;PanAf Data
+LaBelgique;algae_fishing_with_tool;algae;1;0;Deblauwe 2006 New Evidence of Honey-Stick Use by Chimpanzees in Southeast Cameroon. Pan African News 13: 2-4
+LaBelgique;ant_dipping_with_tool;ant;1;0;Deblauwe 2009 Temporal Variation in Insect-eating by Chimpanzees and Gorillas in Southeast Cameroon: Extension of Niche Differentiation International Journal of Primatology 30: 229-252
+LaBelgique;ant_eating_without_tools;ant;0;1;
+LaBelgique;ant_fishing_with_tool;ant;1;0;
+LaBelgique;cave_use;thermoregulation;0;0;
+LaBelgique;ground_nest;ground protection;0;1;
+LaBelgique;honey_aerial_with_tool;honey;1;1;
+LaBelgique;honey_aerial_with_toolset;honey;2;1;
+LaBelgique;honey_eating_without_tools;honey;0;1;
+LaBelgique;leaf_clipping;communication;1;0;
+LaBelgique;leaf_cushion;ground protection;0;0;
+LaBelgique;leaf_sponge;water;1;0;
+LaBelgique;marrow_pick;vertebrates;1;0;
+LaBelgique;nut_cracking;nut;2;0;
+LaBelgique;stone_throwing;communication;1;0;
+LaBelgique;termite_eating_without_tools;termite;0;0;
+LaBelgique;termite_fishing_with_tool;termite;1;1;
+LaBelgique;underground_perforation_with_toolset;perforate honey/termites;2;1;
+LaBelgique;water_dipping;water;1;0;
+Loango;accumulative_stone_throwing;communication;2;0;PanAf data
+Loango;algae_fishing_with_tool;algae;1;0;"\Boesch 2012 Wild Cultures: A Comparison between Chimpanzee and Human Cultures. Cambridge University Press: Cambridge, UK.\"""""
+Loango;ant_dipping_with_tool;ant;1;0;"\Boesch et al. 2009 Complex Tool Sets for Honey Extraction among Chimpanzees in Loango National Park, Gabon Journal of Human Evolution 56: 560-569\"""""
+Loango;ant_eating_without_tools;ant;0;1;
+Loango;ant_fishing_with_tool;ant;1;0;
+Loango;cave_use;thermoregulation;0;0;
+Loango;ground_nest;ground protection;0;0;
+Loango;honey_aerial_with_tool;honey;1;1;
+Loango;honey_aerial_with_toolset;honey;2;1;
+Loango;honey_eating_without_tools;honey;0;1;
+Loango;leaf_clipping;communication;1;0;
+Loango;leaf_cushion;ground protection;0;0;
+Loango;leaf_sponge;water;1;1;
+Loango;marrow_pick;vertebrates;1;0;
+Loango;nut_cracking;nut;2;0;
+Loango;stone_throwing;communication;1;0;
+Loango;termite_eating_without_tools;termite;0;1;
+Loango;termite_fishing_with_tool;termite;1;0;
+Loango;underground_perforation_with_toolset;perforate honey/termites;2;1;
+Loango;water_dipping;water;1;0;
+Lope;accumulative_stone_throwing;communication;2;0;
+Lope;algae_fishing_with_tool;algae;1;0;
+Lope;ant_dipping_with_tool;ant;1;0;
+Lope;ant_eating_without_tools;ant;0;1;
+Lope;ant_fishing_with_tool;ant;1;1;
+Lope;cave_use;thermoregulation;0;0;
+Lope;ground_nest;ground protection;0;0;
+Lope;honey_aerial_with_tool;honey;1;1;
+Lope;honey_aerial_with_toolset;honey;2;1;
+Lope;honey_eating_without_tools;honey;0;0;
+Lope;leaf_clipping;communication;1;0;
+Lope;leaf_cushion;ground protection;0;0;
+Lope;leaf_sponge;water;1;1;
+Lope;marrow_pick;vertebrates;1;0;
+Lope;nut_cracking;nut;2;0;
+Lope;stone_throwing;communication;1;0;
+Lope;termite_eating_without_tools;termite;0;0;
+Lope;termite_fishing_with_tool;termite;1;0;
+Lope;underground_perforation_with_toolset;perforate honey/termites;2;0;
+Lope;water_dipping;water;1;0;
+Mbe;accumulative_stone_throwing;communication;2;0;PanAf Data
+Mbe;algae_fishing_with_tool;algae;1;0;
+Mbe;ant_dipping_with_tool;ant;1;0;
+Mbe;ant_eating_without_tools;ant;0;0;
+Mbe;ant_fishing_with_tool;ant;1;0;
+Mbe;cave_use;thermoregulation;0;0;
+Mbe;ground_nest;ground protection;0;0;
+Mbe;honey_aerial_with_tool;honey;1;0;
+Mbe;honey_aerial_with_toolset;honey;2;0;
+Mbe;honey_eating_without_tools;honey;0;0;
+Mbe;leaf_clipping;communication;1;0;
+Mbe;leaf_cushion;ground protection;0;0;
+Mbe;leaf_sponge;water;1;0;
+Mbe;marrow_pick;vertebrates;1;0;
+Mbe;nut_cracking;nut;2;0;
+Mbe;stone_throwing;communication;1;0;
+Mbe;termite_eating_without_tools;termite;0;0;
+Mbe;termite_fishing_with_tool;termite;1;0;
+Mbe;underground_perforation_with_toolset;perforate honey/termites;2;0;
+Mbe;water_dipping;water;1;0;
+MtCameroon;accumulative_stone_throwing;communication;2;0;
+MtCameroon;algae_fishing_with_tool;algae;1;0;
+MtCameroon;ant_dipping_with_tool;ant;1;0;
+MtCameroon;ant_eating_without_tools;ant;0;0;
+MtCameroon;ant_fishing_with_tool;ant;1;0;
+MtCameroon;cave_use;thermoregulation;0;0;
+MtCameroon;ground_nest;ground protection;0;0;
+MtCameroon;honey_aerial_with_tool;honey;1;0;
+MtCameroon;honey_aerial_with_toolset;honey;2;0;
+MtCameroon;honey_eating_without_tools;honey;0;0;
+MtCameroon;leaf_clipping;communication;1;0;
+MtCameroon;leaf_cushion;ground protection;0;0;
+MtCameroon;leaf_sponge;water;1;0;
+MtCameroon;marrow_pick;vertebrates;1;0;
+MtCameroon;nut_cracking;nut;2;0;
+MtCameroon;stone_throwing;communication;1;0;
+MtCameroon;termite_eating_without_tools;termite;0;0;
+MtCameroon;termite_fishing_with_tool;termite;1;1;
+MtCameroon;underground_perforation_with_toolset;perforate honey/termites;2;0;
+MtCameroon;water_dipping;water;1;0;
+MtCristal;accumulative_stone_throwing;communication;2;0;PanAf Data
+MtCristal;algae_fishing_with_tool;algae;1;0;
+MtCristal;ant_dipping_with_tool;ant;1;0;
+MtCristal;ant_eating_without_tools;ant;0;0;
+MtCristal;ant_fishing_with_tool;ant;1;0;
+MtCristal;cave_use;thermoregulation;0;0;
+MtCristal;ground_nest;ground protection;0;0;
+MtCristal;honey_aerial_with_tool;honey;1;0;
+MtCristal;honey_aerial_with_toolset;honey;2;0;
+MtCristal;honey_eating_without_tools;honey;0;0;
+MtCristal;leaf_clipping;communication;1;0;
+MtCristal;leaf_cushion;ground protection;0;0;
+MtCristal;leaf_sponge;water;1;0;
+MtCristal;marrow_pick;vertebrates;1;0;
+MtCristal;nut_cracking;nut;2;0;
+MtCristal;stone_throwing;communication;1;0;
+MtCristal;termite_eating_without_tools;termite;0;0;
+MtCristal;termite_fishing_with_tool;termite;1;1;
+MtCristal;underground_perforation_with_toolset;perforate honey/termites;2;1;
+MtCristal;water_dipping;water;1;0;
+MtSangbe;accumulative_stone_throwing;communication;2;0;
+MtSangbe;algae_fishing_with_tool;algae;1;0;
+MtSangbe;ant_dipping_with_tool;ant;1;0;
+MtSangbe;ant_eating_without_tools;ant;0;0;
+MtSangbe;ant_fishing_with_tool;ant;1;0;
+MtSangbe;cave_use;thermoregulation;0;0;
+MtSangbe;ground_nest;ground protection;0;0;
+MtSangbe;honey_aerial_with_tool;honey;1;0;
+MtSangbe;honey_aerial_with_toolset;honey;2;0;
+MtSangbe;honey_eating_without_tools;honey;0;0;
+MtSangbe;leaf_clipping;communication;1;0;
+MtSangbe;leaf_cushion;ground protection;0;0;
+MtSangbe;leaf_sponge;water;1;0;
+MtSangbe;marrow_pick;vertebrates;1;0;
+MtSangbe;nut_cracking;nut;2;0;
+MtSangbe;stone_throwing;communication;1;0;
+MtSangbe;termite_eating_without_tools;termite;0;0;
+MtSangbe;termite_fishing_with_tool;termite;1;0;
+MtSangbe;underground_perforation_with_toolset;perforate honey/termites;2;0;
+MtSangbe;water_dipping;water;1;0;
+Ngogo;accumulative_stone_throwing;communication;2;0;PanAf Data
+Ngogo;algae_fishing_with_tool;algae;1;0;"\Boesch 2012 Wild Cultures: A Comparison between Chimpanzee and Human Cultures. Cambridge University Press: Cambridge, UK.\"""""
+Ngogo;ant_dipping_with_tool;ant;1;0;
+Ngogo;ant_eating_without_tools;ant;0;0;
+Ngogo;ant_fishing_with_tool;ant;1;0;"\Watts 2008 Tool Use by Chimpanzees at Ngogo, Kibale National Park, Uganda International Journal of Primatology 29: 83-94\"""""
+Ngogo;cave_use;thermoregulation;0;0;Mitani and Watts 2001 Why do Chimpanzees Hunt and Share Meat Animal Behaviour 61: 915-924
+Ngogo;ground_nest;ground protection;0;0;Langergraber et al. 2011 Genetic and 'Cultural' Similarity in Wild Chimpanzees Proceedings of the Royal Society B 278: 408-416
+Ngogo;honey_aerial_with_tool;honey;1;1;
+Ngogo;honey_aerial_with_toolset;honey;2;0;Whiten et al. 2001 Charting Cultural Variation in Chimpanzees Behaviour 138: 1481-1516
+Ngogo;honey_eating_without_tools;honey;0;1;
+Ngogo;leaf_clipping;communication;1;1;
+Ngogo;leaf_cushion;ground protection;0;0;
+Ngogo;leaf_sponge;water;1;1;
+Ngogo;marrow_pick;vertebrates;1;0;
+Ngogo;nut_cracking;nut;2;0;
+Ngogo;stone_throwing;communication;1;1;
+Ngogo;termite_eating_without_tools;termite;0;0;
+Ngogo;termite_fishing_with_tool;termite;1;1;
+Ngogo;underground_perforation_with_toolset;perforate honey/termites;2;0;
+Ngogo;water_dipping;water;1;1;
+Nyungwe;accumulative_stone_throwing;communication;2;0;PanAf Data
+Nyungwe;algae_fishing_with_tool;algae;1;0;
+Nyungwe;ant_dipping_with_tool;ant;1;0;
+Nyungwe;ant_eating_without_tools;ant;0;0;
+Nyungwe;ant_fishing_with_tool;ant;1;0;
+Nyungwe;cave_use;thermoregulation;0;0;
+Nyungwe;ground_nest;ground protection;0;0;
+Nyungwe;honey_aerial_with_tool;honey;1;1;
+Nyungwe;honey_aerial_with_toolset;honey;2;0;
+Nyungwe;honey_eating_without_tools;honey;0;0;
+Nyungwe;leaf_clipping;communication;1;0;
+Nyungwe;leaf_cushion;ground protection;0;0;
+Nyungwe;leaf_sponge;water;1;0;
+Nyungwe;marrow_pick;vertebrates;1;0;
+Nyungwe;nut_cracking;nut;2;0;
+Nyungwe;stone_throwing;communication;1;0;
+Nyungwe;termite_eating_without_tools;termite;0;0;
+Nyungwe;termite_fishing_with_tool;termite;1;0;
+Nyungwe;underground_perforation_with_toolset;perforate honey/termites;2;0;
+Nyungwe;water_dipping;water;1;0;
+Rubi-Tele;accumulative_stone_throwing;communication;2;0;PanAf Data
+Rubi-Tele;algae_fishing_with_tool;algae;1;0;
+Rubi-Tele;ant_dipping_with_tool;ant;1;1;
+Rubi-Tele;ant_eating_without_tools;ant;0;0;
+Rubi-Tele;ant_fishing_with_tool;ant;1;1;
+Rubi-Tele;cave_use;thermoregulation;0;0;
+Rubi-Tele;ground_nest;ground protection;0;0;
+Rubi-Tele;honey_aerial_with_tool;honey;1;0;
+Rubi-Tele;honey_aerial_with_toolset;honey;2;0;
+Rubi-Tele;honey_eating_without_tools;honey;0;0;
+Rubi-Tele;leaf_clipping;communication;1;0;
+Rubi-Tele;leaf_cushion;ground protection;0;0;
+Rubi-Tele;leaf_sponge;water;1;0;
+Rubi-Tele;marrow_pick;vertebrates;1;0;
+Rubi-Tele;nut_cracking;nut;2;0;
+Rubi-Tele;stone_throwing;communication;1;0;
+Rubi-Tele;termite_eating_without_tools;termite;0;0;
+Rubi-Tele;termite_fishing_with_tool;termite;1;0;
+Rubi-Tele;underground_perforation_with_toolset;perforate honey/termites;2;0;
+Rubi-Tele;water_dipping;water;1;0;
+Sangaredi;accumulative_stone_throwing;communication;2;1;PanAf Data
+Sangaredi;algae_fishing_with_tool;algae;1;1;
+Sangaredi;ant_dipping_with_tool;ant;1;1;
+Sangaredi;ant_eating_without_tools;ant;0;0;
+Sangaredi;ant_fishing_with_tool;ant;1;0;
+Sangaredi;cave_use;thermoregulation;0;0;
+Sangaredi;ground_nest;ground protection;0;1;
+Sangaredi;honey_aerial_with_tool;honey;1;0;
+Sangaredi;honey_aerial_with_toolset;honey;2;0;
+Sangaredi;honey_eating_without_tools;honey;0;0;
+Sangaredi;leaf_clipping;communication;1;0;
+Sangaredi;leaf_cushion;ground protection;0;0;
+Sangaredi;leaf_sponge;water;1;0;
+Sangaredi;marrow_pick;vertebrates;1;0;
+Sangaredi;nut_cracking;nut;2;0;
+Sangaredi;stone_throwing;communication;1;0;
+Sangaredi;termite_eating_without_tools;termite;0;0;
+Sangaredi;termite_fishing_with_tool;termite;1;0;
+Sangaredi;underground_perforation_with_toolset;perforate honey/termites;2;0;
+Sangaredi;water_dipping;water;1;0;
+Sapo;accumulative_stone_throwing;communication;2;0;PanAf Data
+Sapo;algae_fishing_with_tool;algae;1;0;"\Anderson et al. 1983 Chimpanzees of Sapo Forest, Liberia: Density, Nests, Tools and Meat-eating Primates 24: 594-601\"""""
+Sapo;ant_dipping_with_tool;ant;1;0;
+Sapo;ant_eating_without_tools;ant;0;0;
+Sapo;ant_fishing_with_tool;ant;1;0;
+Sapo;cave_use;thermoregulation;0;0;
+Sapo;ground_nest;ground protection;0;0;
+Sapo;honey_aerial_with_tool;honey;1;0;
+Sapo;honey_aerial_with_toolset;honey;2;0;
+Sapo;honey_eating_without_tools;honey;0;0;
+Sapo;leaf_clipping;communication;1;0;
+Sapo;leaf_cushion;ground protection;0;0;
+Sapo;leaf_sponge;water;1;0;
+Sapo;marrow_pick;vertebrates;1;0;
+Sapo;nut_cracking;nut;2;1;
+Sapo;stone_throwing;communication;1;0;
+Sapo;termite_eating_without_tools;termite;0;0;
+Sapo;termite_fishing_with_tool;termite;1;0;
+Sapo;underground_perforation_with_toolset;perforate honey/termites;2;0;
+Sapo;water_dipping;water;1;0;
+Sobeya;accumulative_stone_throwing;communication;2;0;K?hl et al. 2016 Chimpanzee Accumulative Stone Throwing Scientific Reports 6: 22219
+Sobeya;algae_fishing_with_tool;algae;1;1;
+Sobeya;ant_dipping_with_tool;ant;1;0;
+Sobeya;ant_eating_without_tools;ant;0;0;
+Sobeya;ant_fishing_with_tool;ant;1;0;
+Sobeya;cave_use;thermoregulation;0;0;
+Sobeya;ground_nest;ground protection;0;0;
+Sobeya;honey_aerial_with_tool;honey;1;0;
+Sobeya;honey_aerial_with_toolset;honey;2;0;
+Sobeya;honey_eating_without_tools;honey;0;0;
+Sobeya;leaf_clipping;communication;1;0;
+Sobeya;leaf_cushion;ground protection;0;0;
+Sobeya;leaf_sponge;water;1;0;
+Sobeya;marrow_pick;vertebrates;1;0;
+Sobeya;nut_cracking;nut;2;0;
+Sobeya;stone_throwing;communication;1;1;
+Sobeya;termite_eating_without_tools;termite;0;0;
+Sobeya;termite_fishing_with_tool;termite;1;1;
+Sobeya;underground_perforation_with_toolset;perforate honey/termites;2;0;
+Sobeya;water_dipping;water;1;0;
+Tai;accumulative_stone_throwing;communication;2;0;"\Eckhardt et al. 2015 Spatial Cohesion of Adult Male Chimpanzees (Pan troglodytes verus) in Tai National Park, Cote d'Ivoire American Journal of Primatology 77: 125-134\"""""
+Tai;algae_fishing_with_tool;algae;1;0;Tai Chimpanzee Project
+Tai;ant_dipping_with_tool;ant;1;1;Tai Chimpanzee Project
+Tai;ant_eating_without_tools;ant;0;1;K?hl et al. 2016 Chimpanzee Accumulative Stone Throwing Scientific Reports 6: 22219
+Tai;ant_fishing_with_tool;ant;1;0;Luncz and Boesch 2015 The Extent of Cultural Variation Between Adjacent Chimpanzee (Pan troglodytes verus) Communities
+Tai;cave_use;thermoregulation;0;0;Luncz and Boesch 2015 The Extent of Cultural Variation Between Adjacent Chimpanzee (Pan troglodytes verus) Communities
+Tai;ground_nest;ground protection;0;0;
+Tai;honey_aerial_with_tool;honey;1;1;"\Boesch 2012 Wild Cultures: A Comparison between Chimpanzee and Human Cultures. Cambridge University Press: Cambridge, UK.\"""""
+Tai;honey_aerial_with_toolset;honey;2;0;
+Tai;honey_eating_without_tools;honey;0;1;
+Tai;leaf_clipping;communication;1;1;
+Tai;leaf_cushion;ground protection;0;1;
+Tai;leaf_sponge;water;1;1;
+Tai;marrow_pick;vertebrates;1;1;
+Tai;nut_cracking;nut;2;1;
+Tai;stone_throwing;communication;1;1;
+Tai;termite_eating_without_tools;termite;0;1;
+Tai;termite_fishing_with_tool;termite;1;0;
+Tai;underground_perforation_with_toolset;perforate honey/termites;2;0;
+Tai;water_dipping;water;1;0;
