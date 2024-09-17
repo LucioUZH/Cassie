@@ -1,0 +1,169 @@
+library(dplyr)
+library(brms)
+library(rstan)
+
+'%!in%' <- function(x,y)!('%in%'(x,y))
+
+#####
+##### preparations
+#####
+  d.complextools <- read.csv("d.tools3.csv", sep = ";")
+  d.complexgenes <- read.csv("d.genes3.csv", sep = ";")
+  str(d.complextools)
+  str(d.complexgenes)
+  
+  d.complextools <- d.complextools[
+    order( d.complextools[,1], d.complextools[,6] ),
+  ]  
+  
+  plyr::count(d.complextools$population)
+  
+## create map of locations and knowledge
+  d.populations <- select(d.complextools, c(1,2, 4,5))
+  d.populations$region <- as.factor(d.populations$region)
+  d.populations$region <- factor(d.populations$region, 
+                                 levels = c("W", "NC", "C","E"))
+  
+  d.populations <- distinct(d.populations,population, .keep_all = T)
+  
+  
+  lonmin <- minten(min(d.populations$lon))-1
+  lonmax <- maxten(max(d.populations$lon))+1
+  latmin <- minten(min(d.populations$lat))-1
+  latmax <- maxten(max(d.populations$lat))+1
+
+  
+  world <- ne_countries(scale = "medium", returnclass = "sf")
+  class(world)
+  
+  ggplot(data = world) +
+    geom_sf(fill= "antiquewhite") +
+    coord_sf(xlim = c(lonmin, lonmax), ylim = c(latmin, latmax), expand = FALSE) +
+    geom_point(data = d.populations, aes(x = lon, y = lat, col = region),
+               size = 5)+
+    scale_color_manual(values = c("deepskyblue3", "mediumpurple1", "tomato2", "springgreen3"))+
+    labs(color='Supspecies')+ 
+    geom_text_repel(data = d.populations, aes(x = lon, y = lat, label = population), 
+                    size = 7, fontface = "bold") +
+    theme(
+      axis.title = element_blank(),
+      axis.text = element_blank(),
+      axis.ticks = element_blank(),
+      legend.title = element_text(size=16), #change legend title font size
+      legend.text = element_text(size=14)
+    )
+  
+  
+  # create numeric nr.tools
+  nr.tools <- as.numeric(nrow(filter(d.complextools, population == "Tai")))
+  
+  ## create dyads and add population atributes
+  m.complex <- data.frame(t(combn(unique(d.complextools$population), 2)))
+  # nr dyads
+  nr.dyads <- as.numeric(nrow(m.complex))
+  m.pop <- distinct(d.complextools, population, .keep_all = T)
+  m.complex <- merge(m.complex, m.pop, by.x = "X1", by.y = "population")
+  m.complex <- merge(m.complex, m.pop, by.x = "X2", by.y = "population")
+  m.complex <- select(m.complex, -c(7:19,24:36))
+  colnames(m.complex) <- c("population1", "population2","region1", "country1", 
+                           "lat1", "lon1",
+                           "region2", "country2", "lat2", "lon2")
+  
+  ## create dyadic variables
+  # dyadID
+  m.complex$dyadID <- paste0(pmin(m.complex$population1, m.complex$population2),
+                             "_",
+                             pmax(m.complex$population1, m.complex$population2))
+  
+  # dyad region
+  m.complex$dyadregion <- paste0(pmin(m.complex$region1, m.complex$region2),
+                                 pmax(m.complex$region1, m.complex$region2))
+  # sameregion
+  m.complex$sameregion <- ifelse(m.complex$region1 == m.complex$region2, 1, 0)
+  
+  # distance
+  for (i in (1:length(m.complex$population1))) {
+    d <- as.numeric(distm(c(m.complex$lon1[i], m.complex$lat1[i]), 
+                          c(m.complex$lon2[i], m.complex$lat2[i])))
+    m.complex$distance[i] <- d
+  }  
+  
+  ## add genetic data
+  m.genes <- select(d.complexgenes, -c(2,3))
+  m.complex <- merge(m.genes, m.complex, by = "dyadID")
+  
+  ## tool knowledge
+  #replicate lines to match number of shared traits per dyad
+  m.complex <- m.complex[rep(1:nrow(m.complex),each=nr.tools),]
+  #repeat = number of tools; times = number of dyads 
+  m.complex$tool <- rep(d.complextools$tool[1:nr.tools], times = nr.dyads)
+  m.complex$toolset <- rep(d.complextools$toolset[1:nr.tools], times = nr.dyads)
+  m.complex$tooltype <- rep(d.complextools$tooltype[1:nr.tools], times = nr.dyads)
+  m.complex$toolgroup <- rep(d.complextools$toolgroup[1:nr.tools], times = nr.dyads)
+  m.complex$toolclass <- rep(d.complextools$toolclass[1:nr.tools], times = nr.dyads)
+  m.complex$Behaviour <- rep(d.complextools$Behaviour[1:nr.tools], times = nr.dyads)
+  m.complex$tooldetail <- rep(d.complextools$tooldetail[1:nr.tools], times = nr.dyads)
+  m.complex$toolcomplexity <- rep(d.complextools$Toolcomplexity[1:nr.tools], times = nr.dyads)
+  m.complex$toolsetcomplexity <- rep(d.complextools$Toolsetcomplexity[1:nr.tools], times = nr.dyads)
+  
+  #create data of population, tool, use
+  m.presence <- select(d.complextools, c(1,6,11:14))
+  m.complex <- merge(m.complex, m.presence, by.x = c("population1", "tool"), 
+                     by.y = c("population", "tool"))
+  m.complex <- merge(m.complex, m.presence, by.x = c("population2", "tool"), 
+                     by.y = c("population", "tool"))
+  
+  m.complex <- m.complex[c(3,1,4,8:18, 5:7,2,19:27,31,28,32,29,33,30,34)]
+  colnames(m.complex)[27:34] <- c("use1", "use2",
+                                  "modification1", "modification2",
+                                  "sequence1", "sequence2",
+                                  "popcomplexity1", "popcomplexity2")
+  
+  # create shared variable
+  for ( i in (1:length(m.complex$use1))){
+    if (is.na(m.complex$use1[i]) == T |  is.na(m.complex$use2[i]) == T){
+      m.complex$shared[i] <- NA
+    } else if (is.na(m.complex$use1[i]) == F &  is.na(m.complex$use2[i]) == F & 
+               m.complex$use1[i] == 1 & m.complex$use2[i] == 1){
+      m.complex$shared[i] <- 1
+    } else{
+      m.complex$shared[i] <- 0
+    }
+  }   
+  
+  m.complex$sharedsequence <- pmin(m.complex$sequence1, m.complex$sequence2)
+  m.complex$sharedmod <- pmin(m.complex$modification1, m.complex$modification2)
+  m.complex$sharedcomplexity <- pmin(m.complex$popcomplexity1, m.complex$popcomplexity2)
+  
+  table(m.complex$shared)
+  table(m.complex$sharedmod)
+  table(m.complex$sharedsequence)
+  table(m.complex$sharedcomplexity)
+  
+  remove(m.pop, m.genes, m.presence)
+  m.compiled <- m.complex
+  
+#####-----
+## Bayesian analysis
+#####-----
+
+# in case it crashes
+rstan_options(auto_write = TRUE)
+
+complex.prior <- c(prior(normal(0,2), class=Intercept),
+                     prior(normal(0,2), class=b),
+                     prior(exponential(1), class=sd))
+  compiled1 <- brm(sharedsequence ~ toolset + (1 | dyadID) + (1 | dyadregion), 
+                  family=poisson(), data=m.compiled,
+                  prior=complex.prior,
+                  cores=16, chains=4, 
+                  warmup=750, iter=1500,
+                  control=list(adapt_delta =0.95))
+  
+  summary(compiled1)
+  posterior_summary(compiled1)
+  plot(compiled1)
+  mcmc_plot(complex1, type = "acf_bar")
+  mcmc_plot(complex1, type = "areas")
+  
+  
